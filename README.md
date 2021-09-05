@@ -7,8 +7,8 @@
  ### I'm a 👩🏽‍🔬 Physics + 💻 Computer Science Student @ Uniandes!
 - ⚛️ I love both my majors! My current interests are High Energy Physics, Quantum Computing, Image Processing, Computer Vision, Machine Learning and Human-Computer Interaction.
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiaalvarezlopez&hide=html&layout=compact&theme=dracula)](https://github.com/ahmedbesbes/github-readme-stats)
 <!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiaalvarezlopez&hide=html&layout=compact&theme=dracula)](https://github.com/ahmedbesbes/github-readme-stats)
 **sofiaalvarezlopez/sofiaalvarezlopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
