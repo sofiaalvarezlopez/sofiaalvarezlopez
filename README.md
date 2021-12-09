@@ -1,6 +1,6 @@
 ### Hi, I'm Sofia! 👋
 #### But everyone calls me Sofi.
-📫 Reach me at: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sof%C3%ADa-%C3%A1lvarez-l%C3%B3pez-80a529192/)
+📫 Reach me at: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sofia-alvarez-80a529192/)
 [![Website](https://img.shields.io/badge/-Website-blue?style=flat&logo=firefox&logoColor=white)](https://sofiaalvarezlopez.github.io/#/)
  ### I'm a 👩🏽‍🔬 Physics + 💻 Computer Science Student @ Uniandes!
 - ✨ I love both my majors! ✨ My current interests are High Energy Physics, Quantum Computing, Image Processing, Computer Vision, Machine Learning and Human-Computer Interaction ⚛️.
