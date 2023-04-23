@@ -3,7 +3,7 @@
 📫 Reach me at: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sofia-alvarez-80a529192/)
 [![Website](https://img.shields.io/badge/-Website-blue?style=flat&logo=firefox&logoColor=white)](https://sofiaalvarezlopez.github.io/#/)
  ### I'm a 👩🏽‍🔬 Physics + 💻 Computer Science Student @ Uniandes!
-- ✨ I love both my majors! ✨ My current interests involve gravitational-wave astrophysics, and I'm a student member of the LIGO collaboration. My main work within LIGO is for the detector characterization team. I also like and have worked on High Energy Physics, Quantum Computing, Image Processing, Computer Vision, Machine Learning and Human-Computer Interaction. ⚛️.
+- ✨ I love both my majors! ✨ My current interests involve gravitational-wave astrophysics, and I'm a student member of the LIGO collaboration. My main work within LIGO is for the detector characterization team. I'm also interested in using Bayesian statistics and parameter estimation to understand gravitational-waves and our Universe. I also like and have worked in High Energy Physics, Quantum Computing, Image Processing, Computer Vision, Machine Learning, and Human-Computer Interaction ⚛️.
 ---
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiaalvarezlopez&hide=html&layout=compact&theme=dracula)](https://github.com/ahmedbesbes/github-readme-stats)
