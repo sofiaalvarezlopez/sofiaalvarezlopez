@@ -2,7 +2,7 @@
 #### But everyone calls me Sofi.
 📫 Reach me at: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sofia-alvarez-80a529192/)
 [![Website](https://img.shields.io/badge/-Website-blue?style=flat&logo=firefox&logoColor=white)](https://sofiaalvarezlopez.github.io/#/)
- ### I'm a rising first-year Physics Ph.D. student @ MIT, and I will graduate with degrees in 👩🏽‍🔬  Physics and 💻  Systems and Computing Engineering from @ Uniandes this Fall.
+ ### I'm a first-year Physics Ph.D. student @ MIT, and I will graduate with degrees in 👩🏽‍🔬  Physics and 💻  Systems and Computing Engineering from @ Uniandes this Fall.
 - ✨ I love both my majors! ✨ My current interests involve gravitational-wave astrophysics, and I'm a student member of the LIGO collaboration. My main work within LIGO is for the detector characterization team. I'm also interested in using Bayesian statistics and parameter estimation to understand gravitational-waves and the population of sources they come from in our Universe. I also like and have worked in High Energy Physics, Quantum Computing, Image Processing, Computer Vision, Machine Learning, and Human-Computer Interaction ⚛️.
 ---
 <!--
